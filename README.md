@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Prajwal5761
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Prajwal Thakare
+- 👀 I’m interested in front-end development,CP
+- 🌱 I’m currently learning React and advanced JavaScript and Java
+- 💞️ I’m looking to collaborate on open-source projects or web development projects
+- 📫 How to reach me prajwalthakare9922@gmail.com
 
 <!---
 Prajwal5761/Prajwal5761 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
