@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prajwal Thakare
-- 👀 I’m interested in front-end development,CP
+- 👀 I’m interested in front-end development, Data Structure
 - 🌱 I’m currently learning React and advanced JavaScript and Java
 - 💞️ I’m looking to collaborate on open-source projects or web development projects
 - 📫 How to reach me prajwalthakare9922@gmail.com
