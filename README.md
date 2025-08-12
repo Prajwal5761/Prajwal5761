@@ -1,4 +1,4 @@
-                                                                                                                ## Hi, I’m Prajwal Thakare ✨
+## Hi, I’m Prajwal Thakare ✨
 
 
 🧠 Computer Engineering student at COEP<br/>
